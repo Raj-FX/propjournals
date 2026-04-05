@@ -1,5 +1,7 @@
 # 📈 PropJournals — Trade Journaling Web App
 
+🌐 **Live Demo:** [https://propjournals.vercel.app](https://propjournals.vercel.app)
+
 PropJournals is an open-source web application designed to help 
 prop traders track, analyze, and improve their trading performance 
 through structured journaling.
@@ -30,4 +32,4 @@ through structured journaling.
 - Anyone who wants to journal and review their trades
 
 ## 📬 Contact
-Built by Raj Sharma — rajsharma9111461142@gmail.com
+Built by Raj Sharma — rajsharmabiz7@gmail.com
